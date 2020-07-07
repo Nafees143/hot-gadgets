@@ -1,0 +1,38 @@
+.container{
+    margin-bottom: 10px;
+}
+.carousel-item{
+    padding: 10px 50px;
+}
+.buynow-btn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.carousel-indicators li{
+    background-color: black;
+    width: 10px;
+    height: 7px;
+    border: none;
+    border-radius: 10px;
+}
+.carousel-indicators .active{
+    width: 30px;
+    background-color: yellow;
+}
+.cardheader{
+    padding: 10px;
+}
+.cardheader h6{
+    color: yellow;
+}
+.card-deck{
+    padding: 30px;
+}
+.card{
+    border: none;
+    padding: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
